@@ -12,3 +12,7 @@ The first thing you need to do is preparation
 ```python
 print("check")
 ```
+
+## Contributing
+
+Pull requests are welcome
