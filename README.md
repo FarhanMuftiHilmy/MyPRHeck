@@ -16,3 +16,7 @@ print("check")
 ## Contributing
 
 Pull requests are welcome
+
+## License
+
+None
